@@ -38,7 +38,7 @@ Follow these steps to get the system running locally:
 
 1. Clone the Repository
 
-git clone [https://github.com/your-username/warehouse-inventory-pro.git](https://github.com/your-username/warehouse-inventory-pro.git)
+git clone [Add the link of this repostory]
 cd warehouse-inventory-pro
 
 
