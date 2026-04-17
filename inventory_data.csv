@@ -1,0 +1,81 @@
+Item_ID,Name,Category,Quantity,Price
+ITM-1001,Dell XPS 15,Electronics,43,1500.0
+ITM-1002,Ergonomic Chair,Furniture,120,250.0
+ITM-1003,Standing Desk,Furniture,30,450.0
+ITM-1004,Wireless Mouse,Accessories,200,25.0
+ITM-1005,Mechanical Keyboard,Accessories,85,120.0
+ITM-1006,27-inch Monitor,Electronics,40,300.0
+ITM-1007,USB-C Hub,Accessories,150,45.0
+ITM-1008,Office Lamp,Furniture,60,55.0
+ITM-1009,Noise Cancelling Headphones,Electronics,25,299.0
+ITM-1010,Laptop Stand,Accessories,110,35.0
+ITM-1011,Webcam 4K,Electronics,15,95.0
+ITM-1012,External Hard Drive 2TB,Electronics,55,80.0
+ITM-1013,Coffee Maker,Kitchenware,22,120.0
+ITM-1014,Electric Kettle,Kitchenware,34,45.0
+ITM-1015,Bookshelf,Furniture,12,180.0
+ITM-1016,Filing Cabinet,Furniture,18,150.0
+ITM-1017,Paper Shredder,Office Supplies,20,90.0
+ITM-1018,Whiteboard,Office Supplies,10,75.0
+ITM-1019,Desk Organizer,Office Supplies,100,15.0
+ITM-1020,Stapler Heavy Duty,Office Supplies,75,22.0
+ITM-1021,Smartphone 128GB,Electronics,30,799.0
+ITM-1022,Tablet 10-inch,Electronics,28,499.0
+ITM-1023,Gaming Mouse Pad,Accessories,180,18.0
+ITM-1024,Power Bank 20000mAh,Accessories,95,40.0
+ITM-1025,Bluetooth Speaker,Electronics,48,65.0
+ITM-1026,Air Purifier,Electronics,14,210.0
+ITM-1027,Dining Table,Furniture,8,600.0
+ITM-1028,Sofa Bed,Furniture,5,850.0
+ITM-1029,Kitchen Knife Set,Kitchenware,30,110.0
+ITM-1030,Blender,Kitchenware,25,85.0
+ITM-1031,Microwave Oven,Kitchenware,12,140.0
+ITM-1032,Toaster 4-Slice,Kitchenware,40,35.0
+ITM-1033,Office Chair Mat,Furniture,50,40.0
+ITM-1034,Cable Management Box,Accessories,120,20.0
+ITM-1035,HDMI Cable 6ft,Accessories,300,12.0
+ITM-1036,Wireless Charger,Accessories,140,30.0
+ITM-1037,Smart Watch,Electronics,42,250.0
+ITM-1038,Graphic Tablet,Electronics,18,350.0
+ITM-1039,Microphone USB,Electronics,22,130.0
+ITM-1040,Ring Light,Accessories,65,45.0
+ITM-1041,Printer Ink Black,Office Supplies,200,35.0
+ITM-1042,Printer Ink Color,Office Supplies,150,45.0
+ITM-1043,A4 Paper Ream,Office Supplies,500,6.0
+ITM-1044,Marker Set 12-Pack,Office Supplies,120,12.0
+ITM-1045,Notebook Hardcover,Office Supplies,250,8.0
+ITM-1046,Backpack Laptop,Accessories,40,75.0
+ITM-1047,Monitor Arm,Furniture,25,85.0
+ITM-1048,Footrest,Furniture,35,30.0
+ITM-1049,Standing Desk Converter,Furniture,15,190.0
+ITM-1050,Wireless Earbuds,Electronics,110,140.0
+ITM-1051,Gaming Headset,Electronics,55,90.0
+ITM-1052,VR Headset,Electronics,10,399.0
+ITM-1053,Smart Bulb 4-Pack,Electronics,90,45.0
+ITM-1054,Security Camera,Electronics,34,80.0
+ITM-1055,E-Reader,Electronics,20,130.0
+ITM-1056,Waffle Maker,Kitchenware,15,50.0
+ITM-1057,Slow Cooker,Kitchenware,18,65.0
+ITM-1058,Non-Stick Frying Pan,Kitchenware,45,40.0
+ITM-1059,Cast Iron Skillet,Kitchenware,22,55.0
+ITM-1060,Measuring Cup Set,Kitchenware,100,15.0
+ITM-1061,Wall Clock,Furniture,40,25.0
+ITM-1062,Floor Mirror,Furniture,12,120.0
+ITM-1063,Coat Rack,Furniture,25,45.0
+ITM-1064,Step Ladder,Furniture,15,60.0
+ITM-1065,Trash Can Motion Sensor,Kitchenware,20,75.0
+ITM-1066,Pens Box of 50,Office Supplies,300,10.0
+ITM-1067,Folders Pack of 100,Office Supplies,150,18.0
+ITM-1068,Scissors,Office Supplies,100,5.0
+ITM-1069,Tape Dispenser,Office Supplies,80,9.0
+ITM-1070,Calculator Scientific,Office Supplies,50,25.0
+ITM-1071,Ethernet Cable 25ft,Accessories,120,15.0
+ITM-1072,Screen Cleaning Kit,Accessories,200,10.0
+ITM-1073,Camera Tripod,Accessories,35,55.0
+ITM-1074,Laptop Sleeve 13-inch,Accessories,90,22.0
+ITM-1075,Tablet Case,Accessories,75,25.0
+ITM-1076,Smart Plug,Electronics,110,20.0
+ITM-1077,Gaming Controller,Electronics,45,60.0
+ITM-1078,Soundbar,Electronics,18,180.0
+ITM-1079,Projector 1080p,Electronics,8,450.0
+ITM-1080,SSD 1TB Internal,Electronics,65,110.0
